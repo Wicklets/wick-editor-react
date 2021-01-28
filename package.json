@@ -133,7 +133,7 @@
   ],
   "devDependencies": {
     "dotenv": "^8.2.0",
-    "electron": "^7.2.4",
+    "electron": "^9.4.0",
     "electron-builder": "^22.4.1",
     "electron-builder-notarize": "^1.1.2",
     "electron-notarize": "^0.3.0",
